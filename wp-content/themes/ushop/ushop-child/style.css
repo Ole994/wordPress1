@@ -1,0 +1,20 @@
+/*
+THeme name: Ushop child
+Theme URI:
+Description: Ushop is a theme for testing purposes
+Author: Ole
+Author URI: 
+Template: Ushop
+Version: Unknown
+License: Unknown
+License URI: Unknown
+Tags: something
+Text domain: ushop-child
+*/
+
+
+
+body{
+    background: wheat;
+    color: black;
+}
